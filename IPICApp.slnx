@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IPIC.Application/IPIC.Application.csproj" />
+    <Project Path="src/IPIC.Domain/IPIC.Domain.csproj" />
+    <Project Path="src/IPIC.Infrastructure/IPIC.Infrastructure.csproj" />
+    <Project Path="src/IPIC.WebAPI/IPIC.WebAPI.csproj" />
+  </Folder>
+</Solution>
