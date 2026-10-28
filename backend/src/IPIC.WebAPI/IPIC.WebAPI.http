@@ -1,0 +1,6 @@
+@IPIC.WebAPI_HostAddress = http://localhost:5086
+
+GET {{IPIC.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
